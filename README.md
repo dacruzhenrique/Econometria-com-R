@@ -1,3 +1,3 @@
 # Econometria-com-R
 
-## Projetos econométricos desenvolvidos no R
+## Projetos de econometria desenvolvidos no R
